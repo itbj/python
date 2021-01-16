@@ -19,7 +19,7 @@ for i in ret.items:
 Result:  
 $ python k2.py
 ```
-/home/taoli/code/py3/lib/python3.8/site-packages/kubernetes/config/kube_config.py:280: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+/home/tl/code/py3/lib/python3.8/site-packages/kubernetes/config/kube_config.py:280: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
   config_dict=yaml.load(f),
 Listing pods with their IPs:
 172.17.0.4      default a1
